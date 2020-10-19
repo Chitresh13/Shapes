@@ -3,3 +3,5 @@ Triangle code here
 add border
 add colour
 add color2
+add color 3
+
