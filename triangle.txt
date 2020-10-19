@@ -2,3 +2,4 @@ Triangle code here
 // write code here
 add border
 add colour
+add color2
